@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QC'
 - !lcsh 'Thermodynamics'
+- GITenberg
 title: 'Vorlesungen über Thermodynamik
 
   Siebente Auflage'
